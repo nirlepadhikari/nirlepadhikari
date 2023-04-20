@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nirlep Adhikar
+- 👋 Hi, I’m Nirlep Adhikari
 - 👀 I’m interested in React, python (Django, Flask, Fastapi, data analysis and visualization), majority of aws services.
 - 🌱 I’m currently learning Next.js, Typescript and Tailwind.css
 - 💞️ I’m looking to collaborate on anything I can. Especially python.
